@@ -1,0 +1,6 @@
+/Users/santiago/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.deps.json
+/Users/santiago/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.runtimeconfig.json
+/Users/santiago/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.pdb
+/Users/santiago/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/Amazon.Lambda.Core.dll
+/Users/santiago/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/santiago/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.dll

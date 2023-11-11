@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pBEscnuhkwjKUq+eU2ApH+pyHgHBVzOPWosq3CYNSOB1fQ2Efko4lgimDbc8/cZg/Th1RkOE1z5BYYA04KQV+A==",
+  "success": true,
+  "projectFilePath": "/Users/santiago/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+  "expectedPackageFiles": [
+    "/Users/santiago/.nuget/packages/amazon.lambda.core/2.1.0/amazon.lambda.core.2.1.0.nupkg.sha512",
+    "/Users/santiago/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.3.1/amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
+    "/Users/santiago/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/santiago/.nuget/packages/microsoft.netcore.app.crossgen2.osx-x64/6.0.24/microsoft.netcore.app.crossgen2.osx-x64.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}
